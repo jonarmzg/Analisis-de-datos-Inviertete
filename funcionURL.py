@@ -36,7 +36,7 @@ def downloadFromURL(url, filename, sep = ",", delim = "\n"):
     print("El data set tiene %d filas y %d columnas" %(counter, n_cols))
 
     #convertimos el diccionario procesado a Data Frame y comprobamos que los datos son correctos
-    medals_df = pd.DataFrame(main_dict)
+    names_df = pd.DataFrame(main_dict)
     print(medals_df.head())
 
     #Elegimos donde guardarlo (en la carpeta athletes es donde tiene mas sentido por el contexto del análisis)
@@ -45,8 +45,8 @@ def downloadFromURL(url, filename, sep = ",", delim = "\n"):
     fullpath = os.path.join(mainpath, filename)
 
     #Lo guardamos en CSV, en JSON o en Excel según queramos
-    medals_df.to_csv(fullpath+".csv")
-    medals_df.to_json(fullpath+".json")
-    medals_df.to_excel(fullpath+".xls")
+    names_df.to_csv(fullpath+".csv")
+    names_df.to_json(fullpath+".json")
+    names_df.to_excel(fullpath+".xls")
     
     return
