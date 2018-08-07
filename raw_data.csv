@@ -1,0 +1,44 @@
+id,nombre,edad,escolaridad,sexo,codigo_postal,antecedentes,asistencia_semana1,asistencia_semana2,asistencia_semana3,asistencia_semana4,asistencia_semana5,asistencia_semana6,asistencia_semana7,asistencia_semana8,desercion,raven_score,grit_score,terman_I,terman_II,terman_III,terman_IV,terman_V,terman_VI,terman_VII,terman_VIII,terman_IX,terman_X,terman_CI,raven_rango,raven_interp,grit_interp
+,Robles Cortés Aldahir,,,H,,,,,,,,,,,0,46,46,P,P,P,PB,MB,B,P,MB,P,P,90,III+,Término medio,3.833333333
+,Alavez Salinas Vicente Román ,,,H,,,,,,,,,,,0,48,50,P,A,P,PA,PA,PA,PA,PA,PA,P,104,II,Superior  al término medio,4.166666667
+,Triana Flores Alejandro Antonio ,,,H,,,,,,,,,,,1,49,51,PA,A,PA,P,B,PA,PA,P,P,PA,106,II,Superior  al término medio,4.25
+,Sanchezllanes Martínez Anette,,,M,,,,,,,,,,,1,53,35,A,A,PA,PB,PA,P,P,P,P,MA,107,II+,Superior  al término medio,2.916666667
+,Arteaga Contreras Luis Francisco ,,,H,,,,,,,,,,,0,54,37,PA,MA,PA,A,P,MA,PA,A,P,MA,112,II+,Superior  al término medio,3.083333333
+,Marín Mora Azael Abel ,,,H,,,,,,,,,,,0,50,48,A,A,MB,MB,PB,P,PB,P,P,P,92,II,Superior  al término medio,4
+,Cruz Ríos Benito ,,,H,,,,,,,,,,,0,38,45,PB,P,B,MB,MB,PA,P,MB,P,P,90,IV,Inferior al término medio,3.75
+,Castellanos Gómez Jorge,,,H,,,,,,,,,,,1,51,24,P,PA,A,P,B,A,P,P,P,P,106,II,Superior  al término medio,2
+,Vásquez Sandoval Dámaris Andrea,,,M,,,,,,,,,,,0,41,49,PB,P,B,P,MB,PA,P,MB,P,P,92,III,Término medio,4.083333333
+,García Martínez David ,,,H,,,,,,,,,,,1,59,36,P,A,PA,MB,P,P,PA,P,P,MA,106,I,Superior,3
+,Vásquez Sandoval Diana Fernanda,,,M,,,,,,,,,,,0,44,46,PB,P,P,PB,B,PA,MB,P,P,B,96,III-,Término medio,3.833333333
+,Ruiz Mendez Diana Itzel ,,,M,,,,,,,,,,,0,49,39,PA,PA,P,P,P,P,P,MB,P,A,101,II,Superior al término medio,3.25
+,Ramírez Gutierrez Dulce María ,,,M,,,,,,,,,,,0,42,50,P,PA,PA,PB,MB,A,P,P,P,P,101,IV+,Inferior al término medio,4.166666667
+,Mendoza González Efrén Aldebram ,,,H,,,,,,,,,,,0,52,44,A,A,A,P,PA,MA,PA,PB,P,MA,112,II,Superior al término medio,3.666666667
+,Luna Cuevas Eliezer Jaziel ,,,H,,,,,,,,,,,0,41,28,PB,P,MB,P,B,PB,P,P,P,P,92,III,Término medio,2.333333333
+,García Pérez Erick ,,,H,,,,,,,,,,,0,56,47,P,PA,A,P,P,PB,MA,P,P,A,106,II+,Superior al término medio,3.916666667
+,García San Vicente Fernando ,,,H,,,,,,,,,,,0,53,44,P,PA,P,B,MB,P,P,MB,PA,P,95,II,Superior al término medio,3.666666667
+,Gamboa Reyes German,,,H,,,,,,,,,,,0,48,36,PB,PA,B,MB,MB,P,B,MB,B,P,84,II,Superior al término medio,3
+,Ramírez Tenorio Guillermo,,,H,,,,,,,,,,,0,46,42,PB,PA,P,PB,PB,PA,P,MB,B,P,99,III+,Término medio,3.5
+,Pineda Carrera Ingrid Itayetzy,,,M,,,,,,,,,,,1,50,32,PA,MA,PA,P,PB,P,P,PA,P,A,106,II,Superior al término medio,2.666666667
+,Santos Nuñez Itzel Elizabeth ,,,M,,,,,,,,,,,0,56,55,PB,P,B,B,B,P,MB,MB,P,A,88,I,Superior,4.583333333
+,Rodríguez Pacheco Jahdai Galilea,,,M,,,,,,,,,,,0,53,31,PB,P,P,PB,MB,PB,PA,MB,P,P,91,II+,Superior al término medio,2.583333333
+,Gómez Vásquez Jair ,,,H,,,,,,,,,,,0,51,46,P,P,P,PB,MB,P,PA,PB,P,PB,98,II,Superior al término medio,3.833333333
+,Díaz Juárez Jared Jesús,,,H,,,,,,,,,,,0,48,48,PB,PA,B,PB,MB,P,P,MB,P,P,92,II,Superior al término medio,4
+,Jerónimo Ojeda Naara,,,M,,,,,,,,,,,0,52,40,P,P,PA,PB,PB,P,P,PA,P,P,100,II,Superior al término medio,3.333333333
+,Ramírez García Jonathan ,,,H,,,,,,,,,,,1,56,47,PB,PA,PA,PB,P,PA,PA,P,P,P,105,I,Superior,3.916666667
+,Dominguez Morales José Andrés ,,,H,,,,,,,,,,,0,34,40,,,,,,,,,,,,IV,Inferior al término medio,3.333333333
+,Santos Nuñez Leonardo Elí ,,,H,,,,,,,,,,,0,46,42,P,PA,PB,MB,P,P,P,P,MB,P,97,II,Superior al término medio,3.5
+,Galán García Leydi Jesuri ,,,M,,,,,,,,,,,0,38,27,PB,P,P,PB,MB,P,P,MB,P,P,91,IV+,Inferior al término medio,2.25
+,Mendoza Martínez Luis Antonio ,,,H,,,,,,,,,,,1,53,51,P,A,P,P,PB,PA,P,P,P,PA,103,II+,Superior al término medio,4.25
+,Martínez López Luis Enrique ,,,H,,,,,,,,,,,0,48,44,PB,PA,P,P,MB,P,P,PA,PB,P,99,II,Superior al término medio,3.666666667
+,Elorza Velásquez Margarita ,,,M,,,,,,,,,,,1,48,42,PA,A,P,PB,B,P,P,P,P,P,102,II,Superior al término medio,3.5
+,Martínez Silva Jaffet Vladimir ,,,H,,,,,,,,,,,0,48,30,P,A,PA,PA,PB,A,A,PA,P,PA,111,II,Superior al término medio,2.5
+,Jimenez Reymundo Miriam Cibeles ,,,M,,,,,,,,,,,0,55,40,P,A,PA,PB,P,MA,A,P,PA,A,110,I,Superior,3.333333333
+,Antonio López Quetzaly Yuridia,,,M,,,,,,,,,,,0,41,48,B,P,PB,PB,PB,P,B,MB,P,PB,87,IV+,Inferior al término medio,4
+,García Pavía Rodrigo ,,,H,,,,,,,,,,,1,49,40,P,A,P,PB,B,P,P,PB,P,A,98,II,Superior al término medio,3.333333333
+,Velasco Gómez Rubén ,,,H,,,,,,,,,,,1,49,41,PB,A,P,PB,PB,B,P,MB,B,PA,96,II,Superior al término medio,3.416666667
+,Vásquez Carmona Jaziel Antonio,,,H,,,,,,,,,,,0,29,27,PB,PA,PA,P,B,P,P,MB,P,PA,101,V,Deficiente,2.25
+,Villasante Palau Rafael,,,H,,,,,,,,,,,0,57,52,P,MA,PA,A,PB,PA,P,PA,P,MA,108,I,Superior,4.333333333
+,López Pineda Ingrid Xhunashi ,,,M,,,,,,,,,,,1,54,47,P,A,PA,A,PB,A,PA,A,A,P,111,II+,Superior al término medio,3.916666667
+,González Aracen Yael Magdiel ,,,H,,,,,,,,,,,0,51,49,A,MA,MA,P,PA,PA,P,P,PA,A,113,II,Superior al término medio,4.083333333
+,Aragón Cosme Yesenia Paulina ,,,M,,,,,,,,,,,0,49,57,MB,P,P,MB,MB,P,PB,P,P,P,91,III+,Término medio,4.75
+,Pascual Zárate Katia Verónica ,,,M,,,,,,,,,,,1,,45,P,A,P,P,P,P,P,PB,PB,PA,105,,,3.75
