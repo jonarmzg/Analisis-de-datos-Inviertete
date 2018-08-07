@@ -1,3 +1,8 @@
+import pandas as pd     #|
+import os               #|
+#---------------------
+
+
 def downloadFromURL(url, filename, sep = ",", delim = "\n"):
     #primero importamos la libreria y hacemos la conexion con la web de los datos
     import urllib3 
@@ -36,17 +41,21 @@ def downloadFromURL(url, filename, sep = ",", delim = "\n"):
     print("El data set tiene %d filas y %d columnas" %(counter, n_cols))
 
     #convertimos el diccionario procesado a Data Frame y comprobamos que los datos son correctos
-    names_df = pd.DataFrame(main_dict)
-    print(medals_df.head())
+    name_df = pd.DataFrame(main_dict)
+    print(name_df.head())
 
-    #Elegimos donde guardarlo (en la carpeta athletes es donde tiene mas sentido por el contexto del análisis)
-    mainpath = "Documents/python-ml-course/datasets"
-    #filename = "athletes/downloaded_medals."
+    #Elegimos la ruta donde guardarlo
+    mainpath = "C:/Users/Downloads"
     fullpath = os.path.join(mainpath, filename)
 
     #Lo guardamos en CSV, en JSON o en Excel según queramos
-    names_df.to_csv(fullpath+".csv")
-    names_df.to_json(fullpath+".json")
-    names_df.to_excel(fullpath+".xls")
+    name_df.to_csv(fullpath+".csv") 
+    name_df.to_json(fullpath+".json")
+    name_df.to_excel(fullpath+".xls")
     
     return
+
+
+URL = "https://raw.githubusercontent.com/jonarmzg/Analisis-de-datos-Inviertete/master/raw_data.csv"
+filename="inviertete/downloaded_inviertete"
+downloadFromURL(URL,filename)
