@@ -1,0 +1,44 @@
+id,nombre,edad,escolaridad,sexo,codigo_postal,antecedentes,asistencia_semana1,asistencia_semana2,asistencia_semana3,asistencia_semana4,asistencia_semana5,asistencia_semana6,asistencia_semana7,asistencia_semana8,desercion,raven_score,grit_score,terman_I,terman_II,terman_III,terman_IV,terman_V,terman_VI,terman_VII,terman_VIII,terman_IX,terman_X,terman_score,terman_CI,raven_rango,raven_interp,grit_interp
+,Robles Cortés Aldahir,17,Secundaria ,H,71230,0,5,4,3,3,0,0,0,0,0,46,46,12,16,18,8,0,5,11,0,10,14,94,90,III+,Término medio,3.833333333
+,Alavez Salinas Vicente Román ,17,Secundaria,H,68050,0,0,0,0,0,0,0,0,0,0,48,50,13,20,17,12,12,14,12,9,11,18,138,104,II,Superior  al término medio,4.166666667
+,Triana Flores Alejandro Antonio ,17,Secundaria ,H,71233,1,5,5,5,5,4,5,5,5,1,49,51,14,20,24,11,6,16,17,12,13,16,149,106,II,Superior  al término medio,4.25
+,Sanchezllanes Martínez Anette,16,Secundaria ,M,68120,0,5,5,5,5,5,5,5,5,1,53,35,15,20,24,7,16,14,14,9,14,20,153,107,II+,Superior  al término medio,2.916666667
+,Arteaga Contreras Luis Francisco ,42,Posgrado,H,68027,0,5,5,3,4,3,4,1,0,0,54,37,14,22,23,17,8,20,16,15,12,20,167,112,II+,Superior  al término medio,3.083333333
+,Marín Mora Azael Abel ,17,Bachillerato,H,71320,0,4,5,3,4,5,4,0,0,0,50,48,15,20,0,2,8,13,8,9,15,12,102,92,II,Superior  al término medio,4
+,Cruz Ríos Benito ,43,Licenciatura,H,68140,0,4,5,4,5,4,1,0,0,0,38,45,11,12,10,5,4,16,9,0,13,14,94,90,IV,Inferior al término medio,3.75
+,Castellanos Gómez Jorge,21,Bachillerato ,H,68000,0,4,4,4,4,4,5,2,2,1,51,24,13,18,27,13,6,18,14,11,13,14,147,106,II,Superior  al término medio,2
+,Vásquez Sandoval Dámaris Andrea,15,Secundaria ,M,68020,0,4,5,4,4,4,0,0,0,0,41,49,11,14,10,12,0,15,14,4,11,10,101,92,III,Término medio,4.083333333
+,García Martínez David ,27,Licenciatura,H,68060,1,5,4,5,4,3,3,5,5,1,59,36,12,20,24,5,12,14,16,11,14,20,148,106,I,Superior,3
+,Vásquez Sandoval Diana Fernanda,18,Bachillerato ,M,68020,0,4,5,4,4,4,0,0,0,0,44,46,11,16,22,9,6,16,4,9,14,6,113,96,III-,Término medio,3.833333333
+,Ruiz Mendez Diana Itzel ,16,Secundaria ,M,70460,0,4,5,5,4,4,2,0,0,0,49,39,14,18,18,12,12,12,14,0,13,16,129,101,II,Superior al término medio,3.25
+,Ramírez Gutierrez Dulce María ,29,Licenciatura ,M,71243,0,3,1,1,2,2,2,1,0,0,42,50,12,18,25,8,4,18,11,10,10,10,126,101,IV+,Inferior al término medio,4.166666667
+,Mendoza González Efrén Aldebram ,23,Bachilerato,H,68039,0,5,1,0,0,0,0,0,0,0,52,44,15,20,28,11,16,20,17,7,13,20,167,112,II,Superior al término medio,3.666666667
+,Luna Cuevas Eliezer Jaziel ,16,Secunaria,H,68016,0,5,3,2,1,0,0,0,0,0,41,28,10,16,7,10,6,7,14,8,10,14,102,92,III,Término medio,2.333333333
+,García Pérez Erick ,35,Licenciatura ,H,68027,0,5,5,5,4,4,2,0,0,0,56,47,12,18,28,10,12,7,19,10,13,18,147,106,II+,Superior al término medio,3.916666667
+,García San Vicente Fernando ,20,Bachillerato ,H,71260,0,5,5,3,2,2,0,0,0,0,53,44,12,18,19,6,2,10,15,0,16,10,108,95,II,Superior al término medio,3.666666667
+,Gamboa Reyes German,17,Secundaria ,H,68044,0,5,3,1,0,0,0,0,0,0,48,36,10,14,11,3,4,11,5,0,8,12,78,84,II,Superior al término medio,3
+,Ramírez Tenorio Guillermo,19,Bachillerato ,H,71240,1,5,3,1,0,0,0,0,0,0,46,42,10,18,21,8,8,16,14,5,8,14,122,99,III+,Término medio,3.5
+,Pineda Carrera  Itayetzy,27,Licenciatura,M,68040,0,5,5,5,5,5,4,3,,1,50,32,14,22,23,11,10,13,11,13,13,18,148,106,II,Superior al término medio,2.666666667
+,Santos Nuñez Itzel Elizabeth ,18,Bachillerato,M,68000,0,5,4,4,3,3,3,3,3,0,56,55,11,12,9,6,6,11,3,0,12,18,88,88,I,Superior,4.583333333
+,Rodríguez Pacheco Jahdai Galilea,16,Secundaria ,M,71240,0,0,0,0,0,0,0,0,0,0,53,31,10,16,20,8,2,8,16,0,13,12,105,91,II+,Superior al término medio,2.583333333
+,Gómez Vásquez Jair ,18,Bachillerato,H,71250,1,5,3,1,0,0,0,0,0,0,51,46,12,14,22,9,2,12,16,7,14,10,118,98,II,Superior al término medio,3.833333333
+,Díaz Juárez Jared Jesús,15,Secundaria,H,71500,1,5,5,4,5,5,5,5,5,0,48,48,10,18,10,9,4,12,10,2,12,14,101,92,II,Superior al término medio,4
+,Jerónimo Ojeda Naara,23,Bachillerato,M,68026,0,0,0,0,0,0,0,0,0,0,52,40,13,14,24,7,8,14,12,13,10,10,125,100,II,Superior al término medio,3.333333333
+,Ramírez García Jonathan ,22,Bachillerato,H,71228,1,5,4,5,5,4,5,4,5,1,56,47,11,18,24,9,14,17,16,9,13,14,145,105,I,Superior,3.916666667
+,Dominguez Morales José Andrés ,17,Secundaria,H,68104,0,4,1,0,0,0,0,0,0,0,34,40,,,,,,,,,,,0,,IV,Inferior al término medio,3.333333333
+,Santos Nuñez Leonardo Elí ,14,Primaria,H,68000,0,4,4,4,3,3,2,2,2,0,46,42,12,18,13,4,12,14,9,12,8,14,116,97,II,Superior al término medio,3.5
+,Galán García Leydi Jesuri ,17,Secundaria,M,71294,0,4,4,3,1,1,1,0,0,0,38,27,11,12,16,8,4,9,11,3,11,14,99,91,IV+,Inferior al término medio,2.25
+,Mendoza Martínez Luis Antonio ,18,Bachillerato,H,71313,1,5,5,5,5,4,5,5,5,1,53,51,13,20,16,10,10,16,15,9,11,16,136,103,II+,Superior al término medio,4.25
+,Martínez López Luis Enrique ,18,Bachillerato,H,71310,0,5,3,3,2,1,1,0,0,0,48,44,10,18,18,10,4,10,15,14,9,12,120,99,II,Superior al término medio,3.666666667
+,Elorza Velásquez Margarita ,17,Secundaria ,M,68050,1,5,5,5,5,4,5,5,5,1,48,42,14,20,18,9,6,11,15,11,14,14,132,102,II,Superior al término medio,3.5
+,Martínez Silva Jaffet Vladimir ,18,Secundaria ,H,68020,0,5,5,5,3,4,3,2,0,0,48,30,12,20,26,16,12,18,18,13,14,16,165,111,II,Superior al término medio,2.5
+,Jimenez Reymundo Miriam Cibeles ,17,Bachillerato,M,68297,0,2,2,2,3,0,0,0,0,0,55,40,13,20,24,8,14,20,18,10,16,18,161,110,I,Superior,3.333333333
+,Antonio López Quetzaly Yuridia,24,Bachillerato,M,71233,0,0,0,0,0,0,0,0,0,0,41,48,8,16,12,9,8,10,5,3,12,8,91,87,IV+,Inferior al término medio,4
+,García Pavía Rodrigo ,17,Secundaria ,H,68050,0,5,5,5,4,4,5,5,5,1,49,40,12,20,14,8,6,10,12,7,11,18,118,98,II,Superior al término medio,3.333333333
+,Velasco Gómez Rubén ,16,Secundaria ,H,68285,0,5,5,5,5,5,5,3,4,1,49,41,11,20,21,9,8,6,9,3,8,16,111,96,II,Superior al término medio,3.416666667
+,Vásquez Carmona Jaziel Antonio,16,Secundaria ,H,71244,0,0,0,0,0,0,0,0,0,0,29,27,11,18,24,11,6,14,10,5,13,16,128,101,V,Deficiente,2.25
+,Villasante Palau Rafael,22,Bachillerato ,H,71320,0,0,0,0,0,0,0,0,0,0,57,52,13,22,23,16,10,14,13,13,13,20,157,108,I,Superior,4.333333333
+,López Pineda Ingrid Xhunashi ,17,Bachillerato ,M,68040,0,5,5,5,5,5,5,3,3,1,54,47,12,20,26,17,8,18,16,15,17,14,163,111,II+,Superior al término medio,3.916666667
+,González Aracen Yael Magdiel ,18,Bachillerato ,H,71243,0,5,5,5,5,4,4,4,5,0,51,49,15,22,29,12,16,16,14,11,16,18,169,113,II,Superior al término medio,4.083333333
+,Aragón Cosme Yesenia Paulina ,25,Bachillerato ,M,71260,0,5,3,3,1,0,0,0,0,0,49,57,7,14,18,4,0,9,8,8,11,10,89,91,III+,Término medio,4.75
+,Pascual Zárate Katia Verónica ,16,Secundaria,M,68104,1,5,5,5,4,4,3,5,4,1,,45,,,,,,,,,,,,,,,3.75
