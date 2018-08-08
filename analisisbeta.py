@@ -13,4 +13,10 @@ bd = pd.read_csv("base_prueba.csv", na_values = np.nan)
 bd.dropna(how = "all", axis = "columns", inplace =True)
 bd.drop(["nombre"], axis = 1, inplace =True)
 bd.dropna(inplace = True)
-print(bd.dtypes)
+
+# Cambia tipo de datos en columnas seleccionadas
+for i in bd.columns:
+	if i.startswith("terman_"):
+		bd[i] = bd[i].astype(np.int64)
+bd["raven_score"] = bd["raven_score"].astype(np.int64)
+bd["asistencia_semana8"] = bd["asistencia_semana8"].astype(np.int64)
